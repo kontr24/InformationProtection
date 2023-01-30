@@ -29,7 +29,7 @@ https://cloud.mail.ru/public/wbp2/b2gyUf7Gi
 <hr/>
 <h2 align="center">Прямоугольник Плейфера</h2>
 <p align="center">
-  <a href="123"><img src="123"></img></a>
+  <a href="123"><img src="https://github.com/kontr24/InformationProtection/blob/b2f6a061e843dcc522e9915f2f9fd56154b17ac3/ScreenshotsApplication/PlayfairRectangle.png"></img></a>
 </p>
 <hr/>
 <h2 align="center">Квадрат Полибия</h2>
